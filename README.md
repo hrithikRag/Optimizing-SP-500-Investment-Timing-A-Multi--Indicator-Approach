@@ -1,4 +1,6 @@
 
+---
+
 **Optimizing S&P 500 Investment Timing: A Multi-Indicator Approach**
 
 **Project Overview:**
@@ -31,3 +33,5 @@ In an ever-evolving financial landscape, the timing of investments, especially i
 
 **Outcome:** 
 This research offers a meticulous strategy for potential investors in the S&P 500. By intertwining technical and economic indicators, it furnishes a roadmap for optimizing investment timing, aiming to enhance returns while mitigating risks.
+
+---
