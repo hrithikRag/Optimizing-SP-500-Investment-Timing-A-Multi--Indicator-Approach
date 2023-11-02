@@ -1,3 +1,4 @@
+
 **Optimizing S&P 500 Investment Timing: A Multi-Indicator Approach**
 
 **Project Overview:**
